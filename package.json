@@ -41,6 +41,7 @@
     "fill-range": "^7.0.1",
     "get-port": "^4.2.0",
     "globals": "^13.20.0",
+    "go": "^3.0.1",
     "has-flag": "^4.0.0",
     "htmlnano": "^2.0.4",
     "htmlparser2": "^7.2.0",
